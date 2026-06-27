@@ -198,7 +198,7 @@ MIT © 2026
 ---
 
 <div align="center">
-R�alisé dans le cadre du Master 1 SSI — ESP Dakar<br>
-Cours : Programmation Sécurisée DevSecOps — Enseignant : Doudou FALL<br><br>
+R�alisé dans le cadre d'une reflexion personnel<br>
+Programmer grace a Claude IA <br><br>
 <em>Si ce projet vous a été utile, une ⭐ sur GitHub est appréciée !</em>
 </div>
